@@ -1,0 +1,13 @@
+body{
+background-color: cyan;
+display: flex;
+}
+.image1{
+margin-left: 90px;
+margin-top: 20px;
+position: relative;
+}
+.image2{
+position: absolute;
+border-radius: 40px;
+}
